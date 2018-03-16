@@ -1,0 +1,12 @@
+[Desktop Entry]
+Type=X-GNOME-Metatheme
+Name=Neru-canta-blue-light
+Comment=An Flat Gtk+ theme based on Material Design
+Encoding=UTF-8
+
+[X-GNOME-Metatheme]
+GtkTheme=Neru-canta-blue-light
+MetacityTheme=Neru-canta-blue-light
+IconTheme=neru-mate-blue-light
+CursorTheme=Adwaita
+ButtonLayout=menu:minimize,maximize,close
