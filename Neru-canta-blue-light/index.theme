@@ -7,6 +7,6 @@ Encoding=UTF-8
 [X-GNOME-Metatheme]
 GtkTheme=Neru-canta-blue-light
 MetacityTheme=Neru-canta-blue-light
-IconTheme=neru-mate-blue-light
+IconTheme=neru-classic-light
 CursorTheme=Adwaita
 ButtonLayout=menu:minimize,maximize,close
