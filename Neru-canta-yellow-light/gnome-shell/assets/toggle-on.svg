@@ -13,7 +13,7 @@
    version="1.1"
    id="svg6"
    sodipodi:docname="toggle-on.svg"
-   inkscape:version="0.92.2 (5c3e80d, 2017-08-06)">
+   inkscape:version="0.92.1 r">
   <metadata
      id="metadata12">
     <rdf:RDF>
@@ -36,16 +36,16 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="815"
-     inkscape:window-height="485"
+     inkscape:window-width="1680"
+     inkscape:window-height="994"
      id="namedview8"
      showgrid="false"
      inkscape:zoom="11.8"
      inkscape:cx="8.8135593"
      inkscape:cy="10"
      inkscape:window-x="0"
-     inkscape:window-y="25"
-     inkscape:window-maximized="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
      inkscape:current-layer="svg6" />
   <rect
      x="2"
@@ -55,7 +55,7 @@
      ry="8"
      fill="#FF4081"
      id="rect2"
-     style="fill:#ffac00;fill-opacity:1" />
+     style="fill:#7dc843;fill-opacity:1" />
   <circle
      cx="30"
      cy="10"
